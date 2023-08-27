@@ -116,7 +116,7 @@ const projects = [
   {
     name: "Uterra",
     description:
-      "An underdeveloped social media app based on the map, I'm responsible for front end development.",
+      "An underdeveloped social media app based on the map, I'm one of the member who is responsible for the front end development.",
     tags: [
       {
         name: "reactNative",
