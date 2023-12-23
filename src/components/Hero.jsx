@@ -19,7 +19,23 @@ const Hero = () => {
         {/* b. The introduction */}
         <div className="z-10 cursor-default">
           <h1 className={`${styles.heroHeadText}`}>
-            Hi, I'm <span className="text-primaryFont">Hong Yang</span>
+            Hi, I'm{" "}
+            <motion.span
+              initial={{ translateY: -200, opacity: 0 }}
+              animate={{ translateY: 0, opacity: 1 }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: 0.5 }}
+              className="text-primaryFont hover:underline underline-offset-[12px]"
+            >
+              <a
+                href="https://github.com/Carl0523?tab=repositories"
+                target="_blank"
+                rel="noreferrer"
+                className="hover:opacity-80"
+              >
+                Hong Yang
+              </a>
+            </motion.span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I'm a computer science major student @{" "}
