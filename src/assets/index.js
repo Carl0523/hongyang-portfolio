@@ -1,7 +1,7 @@
 import logo from "./logo3.svg";
-import backend from "./backend.png";
+import mernstack from "./backend.png";
 import creator from "./creator.png";
-import mobile from "./mobile.png";
+import fullstack from "./fullstack.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -21,19 +21,24 @@ import dart from "./tech/dart.png";
 import firebase from "./tech/firebase.png";
 import flutter from "./tech/flutter.png";
 import java from "./tech/java.png";
+import mongodb from './tech/mongodb.png';
 import reactnative from "./tech/reactnative.png";
+import expressjs from "./tech/expressjs.png";
 
 import investment from './projects/investment.png';
 import mealApp from './projects/mealApp.png';
 import uterra from './projects/uterra.png';
+import realEstate from './projects/realestate.png';
+import mealOrder from './projects/mealorder.png';
+import auth from './projects/auth.png';
 
 
 
 export {
   logo,
-  backend,
+  mernstack,
   creator,
-  mobile,
+  fullstack,
   web,
   github,
   menu,
@@ -55,6 +60,11 @@ export {
   java,
   reactnative,
   investment,
+  mongodb,
+  expressjs,
   mealApp,
-  uterra
+  uterra,
+  realEstate,
+  mealOrder,
+  auth
 };
