@@ -1,7 +1,5 @@
 import { motion } from "framer-motion";
 
-
-
 import {BsFillRocketFill} from 'react-icons/bs';
 
 
