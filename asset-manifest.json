@@ -1,31 +1,35 @@
 {
   "files": {
-    "main.css": "/hongyang-portfolio/static/css/main.055f760a.css",
-    "main.js": "/hongyang-portfolio/static/js/main.8c9615d7.js",
+    "main.css": "/hongyang-portfolio/static/css/main.55a00429.css",
+    "main.js": "/hongyang-portfolio/static/js/main.be38e9a2.js",
+    "static/media/mealorder.png": "/hongyang-portfolio/static/media/mealorder.ed047a5e778b3ade241d.png",
+    "static/media/realestate.png": "/hongyang-portfolio/static/media/realestate.d09dd5e6d61d25995d23.png",
     "static/media/mealApp.png": "/hongyang-portfolio/static/media/mealApp.4bade03e7da5b3878055.png",
     "static/media/herobg.png": "/hongyang-portfolio/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/investment.png": "/hongyang-portfolio/static/media/investment.9ece6c99c8b33f9937d4.png",
     "static/media/uterra.png": "/hongyang-portfolio/static/media/uterra.30d385b529c1ceee46f9.png",
+    "static/media/auth.png": "/hongyang-portfolio/static/media/auth.d21088688c3be0de2a13.png",
     "static/media/web.png": "/hongyang-portfolio/static/media/web.c0cb2cc13791a26822d3.png",
     "static/media/c.png": "/hongyang-portfolio/static/media/c.bf0af88d24cd724c83bc.png",
     "static/media/backend.png": "/hongyang-portfolio/static/media/backend.08c8d93b8142c41a9e63.png",
     "static/media/dart.png": "/hongyang-portfolio/static/media/dart.17c375e75e93958b549a.png",
     "static/media/reactnative.png": "/hongyang-portfolio/static/media/reactnative.04dc60f505fa7d4b6dab.png",
-    "static/media/mobile.png": "/hongyang-portfolio/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/fullstack.png": "/hongyang-portfolio/static/media/fullstack.15e7b89f1018dcdba6e7.png",
     "static/media/creator.png": "/hongyang-portfolio/static/media/creator.f8923ce18390029928ac.png",
     "static/media/java.png": "/hongyang-portfolio/static/media/java.464af9963a07a4d238d7.png",
     "static/media/flutter.png": "/hongyang-portfolio/static/media/flutter.d522d8ca531e77debd54.png",
+    "static/media/expressjs.png": "/hongyang-portfolio/static/media/expressjs.c0a5938442260d76c0f2.png",
     "static/media/github.png": "/hongyang-portfolio/static/media/github.ed1c06d925fff0b57e32.png",
     "static/media/firebase.png": "/hongyang-portfolio/static/media/firebase.6b405206252ff65ef584.png",
     "static/media/logo3.svg": "/hongyang-portfolio/static/media/logo3.23cabf737c8feaaea25871b9a8acfc68.svg",
     "static/media/close.svg": "/hongyang-portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
     "static/media/menu.svg": "/hongyang-portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/hongyang-portfolio/index.html",
-    "main.055f760a.css.map": "/hongyang-portfolio/static/css/main.055f760a.css.map",
-    "main.8c9615d7.js.map": "/hongyang-portfolio/static/js/main.8c9615d7.js.map"
+    "main.55a00429.css.map": "/hongyang-portfolio/static/css/main.55a00429.css.map",
+    "main.be38e9a2.js.map": "/hongyang-portfolio/static/js/main.be38e9a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.055f760a.css",
-    "static/js/main.8c9615d7.js"
+    "static/css/main.55a00429.css",
+    "static/js/main.be38e9a2.js"
   ]
 }
