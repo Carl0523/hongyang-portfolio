@@ -45,8 +45,8 @@ const About = () => {
           className="mt-4 text-secondary sm:text-[18px] text-[14px] leading-[30px]"
         >
           Hi, there! I'm <span className="text-primaryFont">Hong Yang</span>, a
-          Computer Science major student with a passion for Software Engineer.
-          With years of experiences in front end and java, I'm looking forward
+          Computer Science major student with a passion for becoming a <span className="text-primaryFont">Full Stack Developer</span>.
+          With many experiences in <span className="text-primaryFont">MERN stack and Java</span>, I'm looking forward
           to find an internship in Software Engineer. What truly excites me is
           how I can make application that can be enjoyed by people. And I will
           bring this enthusiasm into every project I undertake.
