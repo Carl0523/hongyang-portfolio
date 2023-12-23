@@ -9,7 +9,7 @@ const Tech = () => {
       <div className="text-center">
         <h2 className={`${styles.heroHeadText}`}>Technical Skill</h2>
         <p className={styles.sectionSubText}>
-          I specialized in frontend development and creating UI design in Figma
+          I specialized in full stack development, especially MERN stack
         </p>
       </div>
 
