@@ -1,6 +1,7 @@
 import {
-  mobile,
-  backend,
+  fullstack,
+  mernstack,
+  mongodb,
   creator,
   web,
   javascript,
@@ -16,9 +17,14 @@ import {
   firebase,
   java,
   flutter,
+  git,
   uterra,
   investment,
+  expressjs,
   mealApp,
+  realEstate,
+  mealOrder,
+  auth
 } from "../assets";
 
 export const navLinks = [
@@ -42,12 +48,12 @@ const services = [
     icon: web,
   },
   {
-    title: "Mobile App Developer",
-    icon: mobile,
+    title: "Full Stack Developer",
+    icon: fullstack,
   },
   {
-    title: "Backend Developer",
-    icon: backend,
+    title: "MERN Stack Developer",
+    icon: mernstack,
   },
   {
     title: "Explorer",
@@ -73,7 +79,7 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: "React JS",
+    name: "React.js",
     icon: reactjs,
   },
   {
@@ -81,20 +87,20 @@ const technologies = [
     icon: redux,
   },
   {
-    name: "Flutter",
-    icon: flutter,
+    name: "MongoDB",
+    icon: mongodb,
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   {
-    name: "Node JS",
+    name: "Node.js",
     icon: nodejs,
   },
   {
-    name: "Firebase",
-    icon: firebase,
+    name: "Express.js",
+    icon: expressjs,
   },
   {
     name: "Java",
@@ -114,63 +120,88 @@ const technologies = [
 
 const projects = [
   {
-    name: "Uterra",
+    name: "Home Yonder",
     description:
-      "An underdeveloped social media app based on the map, I'm one of the member who is responsible for the front end development.",
+      "A MERN full-stack real estate web application. Intuitive Property Exploration: Navigate through an intuitive interface that explores the available properties through an advanced search and filtering system.Efficient Property Management: Manage the property list by posting, editing, and removing properties. Social Sharing: Easily share housing info with others Easy Contact: Simplify communication by providing a direct contact feature to contact the property owner.",
     tags: [
       {
-        name: "reactNative",
-        color: "green-text-gradient",
+        name: "React.js",
+        color: "text-blue-400",
+      },
+      {
+        name: "Express.js",
+        color: "text-white",
+      },
+      {
+        name: "Node.js",
+        color: "text-green-500",
+      },
+      {
+        name: "MongoDB",
+        color: "text-green-700",
       },
       {
         name: "redux toolkit",
-        color: "pink-text-gradient",
+        color: "text-purple-600",
       },
       {
-        name: "go",
+        name: "Tailwind CSS",
         color: "blue-text-gradient",
       },
     ],
-    image: uterra,
-    source_code_link: "https://github.com/Uterra",
+    image: realEstate,
+    source_code_link: "https://github.com/Carl0523/home_yonder",
   },
   {
-    name: "Food Recipe",
+    name: "MERN Auth",
     description:
-      "A food recipe app using Riverpod for state management.",
-    tags: [
-      {
-        name: "dart",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "flutter",
-        color: "green-text-gradient",
-      },
-    ],
-    image: mealApp,
-    source_code_link: "https://github.com/Carl0523/food-recipe-app",
+      "Developed secure authentication systems including registration, login, and profile management with JWT tokens. Implemented RESTful APIs for communication between frontend and backend. Manage frontend state with Redux Toolkit",
+      tags: [
+        {
+          name: "React.js",
+          color: "text-blue-400",
+        },
+        {
+          name: "Express.js",
+          color: "text-white",
+        },
+        {
+          name: "Node.js",
+          color: "text-green-500",
+        },
+        {
+          name: "MongoDB",
+          color: "text-green-700",
+        },
+        {
+          name: "redux toolkit",
+          color: "text-purple-600",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "blue-text-gradient",
+        },
+      ],
+    image: auth,
+    source_code_link: "https://github.com/Carl0523/mern-auth",
   },
   {
-    name: "Investment Calculator",
+    name: "Meal Order",
     description:
-      "An web application allows the user to calculate the investment based on the interest rate, annual deposit, etc.",
+      "A meal order app, featuring an aesthetically pleasing UI I designed. Developed using react and manage state using useContext functionality, the app facilitates a smooth food ordering experience. Users can easily select and order their preferred meals while efficiently managing their carts.",
     tags: [
       {
-        name: "html",
+        name: "React.js",
+        color: "text-blue-400",
+      },
+      {
+        name: "React Context",
         color: "blue-text-gradient",
       },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "React",
-        color: "pink-text-gradient",
-      },
+
     ],
-    image: investment,
-    source_code_link: "https://github.com/Carl0523/investment-calculator",
+    image: mealOrder,
+    source_code_link: "https://github.com/Carl0523/meal-order",
   },
 ];
 
